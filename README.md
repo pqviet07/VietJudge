@@ -32,7 +32,7 @@ Compiler: gcc version 9.2.0
   - Gọi thực thi ABC.exe, ABC_2.exe --> kết quả sẽ được ghi vào hai file ABC.OUT, ABC.ANS
   - Đem hai file này so sánh với nhau sẽ biết được sai ở test case nào (windows cung cấp hàm `fc` để so sánh file, `fc` là viết tắt của `file compare`)
 
-**Note:** bạn có thể đặt tên chương trình bruteforce, file input, output tùy thích
+  **Note:** bạn có thể đặt tên chương trình bruteforce, file input, output tùy thích
 
 ```
 Tham khảo: https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md'
