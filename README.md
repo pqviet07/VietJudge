@@ -21,9 +21,9 @@ Compiler: gcc version 9.2.0
 
 ### Ví dụ
 
-- `ABC.cpp` là code bạn cần chấm, chương trình này sẽ đọc từ file ABC.INP và in kết quả vào file ABC.OUT
+- `ABC.cpp` là code bạn cần chấm, chương trình này sẽ đọc từ file ABC.INP và ghi kết quả vào file ABC.OUT
 
-- `ABC_2.cpp` là code bruteforce mà bạn chắc chắn kết quả của nó đúng. Chương trình này đọc từ file ABC.INP và in kết quả vào file ABC.ANS
+- `ABC_2.cpp` là code bruteforce mà bạn chắc chắn kết quả của nó đúng. Chương trình này đọc từ file ABC.INP và ghi kết quả vào file ABC.ANS
 
 - Compile file ABC.cpp thành ABC.exe và ABC_2.cpp thành ABC_2.exe
 
