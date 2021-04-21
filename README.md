@@ -1,8 +1,8 @@
-## 1. Trình chấm Code
+## 1. Intro
 
 Đây là chương trình mà mình thường sử dụng để chấm bài
 
-**Môi trường code mình thường sử dụng**
+**Môi trường code**
 
 ```
 OS: Windows 10
@@ -17,7 +17,7 @@ Compiler: gcc version 9.2.0
 
 ![image info](./Screenshot.jpg)
 
-## 2. Hướng dẫn sử dụng
+## 2. How does it work?
 
 ### Ví dụ
 
