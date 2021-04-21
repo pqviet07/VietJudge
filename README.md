@@ -1,8 +1,8 @@
-## 1. Trình chấm Code
+## 1. Intro
 
 Đây là chương trình mà mình thường sử dụng để chấm bài
 
-**Môi trường code mình thường sử dụng**
+**Môi trường code**
 
 ```
 OS: Windows 10
@@ -17,13 +17,13 @@ Compiler: gcc version 9.2.0
 
 ![image info](./Screenshot.jpg)
 
-## 2. Hướng dẫn sử dụng
+## 2. How does it work?
 
 ### Ví dụ
 
-- `ABC.cpp` là code bạn cần chấm, chương trình này sẽ đọc từ file ABC.INP và in kết quả vào file ABC.OUT
+- `ABC.cpp` là code bạn cần chấm, chương trình này sẽ đọc từ file ABC.INP và ghi kết quả vào file ABC.OUT
 
-- `ABC_2.cpp` là code bruteforce mà bạn chắc chắn kết quả của nó đúng. Chương trình này đọc từ file ABC.INP và in kết quả vào file ABC.ANS
+- `ABC_2.cpp` là code bruteforce mà bạn chắc chắn kết quả của nó đúng. Chương trình này đọc từ file ABC.INP và ghi kết quả vào file ABC.ANS
 
 - Compile file ABC.cpp thành ABC.exe và ABC_2.cpp thành ABC_2.exe
 
