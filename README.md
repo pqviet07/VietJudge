@@ -30,7 +30,7 @@ Compiler: gcc version 9.2.0
 - MyJudge.cpp là code chính để chấm bài, sau đây là flow của nó:
   - Hàm `tcgenerator()` dùng để sinh ra các test case và ghi vào file ABC.INP (với mỗi bài khác nhau sẽ cần viết lại hàm này để nó random ra input tương ứng )
   - Gọi thực thi ABC.exe, ABC_2.exe --> kết quả sẽ được ghi vào hai file ABC.OUT, ABC.ANS
-  - Đem hai file này so sánh với nhau sẽ biết được sai ở test case nào (windows cung cấp lệnh `fc` để so sánh file, `fc` là viết tắt của `file compare`)
+  - So sánh hai file này với nhau sẽ biết đúng/sai ở test case nào (windows cung cấp lệnh `fc` để so sánh file, `fc` là viết tắt của `file compare`)
 
   **Note:** bạn có thể đặt tên chương trình bruteforce, file input, output tùy thích
 
