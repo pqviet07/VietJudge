@@ -35,5 +35,5 @@ Compiler: gcc version 9.2.0
   **Note:** bạn có thể đặt tên chương trình bruteforce, file input, output tùy thích
 
 ```
-Tham khảo: https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md'
+Tham khảo: https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md
 ```
