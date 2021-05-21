@@ -32,6 +32,8 @@ Compiler: gcc version 9.2.0
   - Gọi thực thi ABC.exe, ABC_2.exe --> kết quả sẽ được ghi vào hai file ABC.OUT, ABC.ANS
   - So sánh hai file này với nhau sẽ biết đúng/sai ở test case nào (windows cung cấp lệnh `fc` để so sánh file, `fc` là viết tắt của `file compare`)
 
+
+
 ```
 Tham khảo: https://vnoi.info/wiki/algo/skill/viet-trinh-cham.md
 ```
