@@ -52,11 +52,11 @@ inline void tcgenerator()
 int main()
 {
     SetConsoleOutputCP(CP_UTF8); // in window.h
-    
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    
+
+    // ios_base::sync_with_stdio(false);
+    // cin.tie(nullptr);
+    // cout.tie(nullptr);
+
     int t = tc;
     while(t--)
     {
@@ -69,18 +69,18 @@ int main()
         {
             cout << "🧪❤️";
             cout << COLOR_WRONG;
-            cout << "Test case #" << tc - t << " ... Wrong Anwser";
-            cout << " ahuhu 💩 💩 💩 😥 😥 ❌ ❌\n";
+            cout << "Test case #" << tc - t << " ... Wrong Answer";
+            cout << ". Ahuhu 💩 💩 😥 😥 ❌ ❌\n";
             cout << RESET_COLOR;
             // uncomment below code if u want to stop immediately
-            //return 0;
-            continue;
+            return 0;
+            // continue;
         }
 
         cout << "🧪❤️";
         cout << COLOR_TRUE;
         cout << "Test case #" << tc - t << " ... Accepted";
-        cout << " ahihi 😎 😎 👍 🌺 🌺 🌺 ✔️ ✅\n";
+        cout << ". Ahihi 😎 😎  🌺 🌺 🌺 ✔️ ✅\n";
         cout << RESET_COLOR;
     }
 
