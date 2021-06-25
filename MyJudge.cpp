@@ -73,8 +73,8 @@ int main()
             cout << ". Ahuhu 💩 💩 😥 😥 ❌ ❌\n";
             cout << RESET_COLOR;
             // uncomment below code if u want to stop immediately
-            return 0;
-            // continue;
+            //return 0;
+            continue;
         }
 
         cout << "🧪❤️";
